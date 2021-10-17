@@ -1,4 +1,5 @@
 let STEPS_DATA = [ {
+        id: 1,
         title: "Préparations & imprévus",
         date: "Mardi 12/10/21",
         text: "Vérifications techniques en présence de nos familles au Château de Lastours (Portel des corbières) de 14h à 19h Verre de l’amitié au Château de Lastours de 19h à 20h qu’on a manqué pour aller chercher un rétro tout neuf à Roberto (el 4x4), resté dans la main d’Angelique.Un grand merci à Pierre de Perpignan notre sauveur! Remise des dons à la Croix Rouge, apparemment tous les équipages ont été plus que généreux… les camions étaient trop petits.",
@@ -6,6 +7,7 @@ let STEPS_DATA = [ {
         picturesMobile: [ 'photo_car_kiss-mobile.jpg' ],
     },
     {
+        id: 2,
         title: "Début de la croisière",
         date: "Mercredi 13/10/21",
         text: "Vérifications administratives manquées la veille vous savez pourquoi…au Château de Lastours de 07h à 11h puis départ de l’événement donné vers 11h. Une ambiance de folie et déjà beaucoup d’émotions. RDV au port de Sète à 14h00 pour l'embarquement avec nos 2 sponsors Paradiform et YBYParis qui nous ont encouragées jusqu’au bout avec l’envie de se planquer dans la voiture. 18h montée dans le bateau.<br>La croisière commence, découverrte de notre cabine de luxe de 4m2 sans fenêtre avec une mention spéciale pour la douche/toilettes/lavabo. On espère juste que le capitaine n’est pas celui du Costa Concordia",
@@ -13,6 +15,7 @@ let STEPS_DATA = [ {
         picturesMobile: [ 'photo_titanic-mobile.jpg' ],
     },
     {
+        id: 3,
         title: "Petit bateau sur l’eau...",
         date: "Jeudi 14/10/21",
         text: "Journée rencontres avec d’autres équipages, coaching usage du matériel vidéo… c’est pas gagné avec un ordi pourri et une Go Pro dernière génération.<br>Travail du road book 1 étape de liaison Nador - Errachidia. Avec la carte du Maroc c’est plutôt simple. Avec la boussole ce sera une autre histoire !",
@@ -20,6 +23,7 @@ let STEPS_DATA = [ {
         picturesMobile: [ 'in_boat-mobile.jpg' ],
     },
     {
+        id: 4,
         title: "Arrivée à Nador, on prend la route !",
         date: "Vendredi 15/10/21",
         text: "Sortie du bateau sans accident dans une joyeuse anarchie Arrivée du bateau à Nador... Étape de liaison aujourd’hui jusqu’au Bivouac. Départ de Nador, road book à la main, route N19 direction Taourirt.",
@@ -27,6 +31,7 @@ let STEPS_DATA = [ {
         picturesMobile: [ 'direction_taourirt2-mobile.jpg' ],
     },
     {
+        id: 5,
         title: "Hassi Berhane, Gorge du Ziz & lac d’Errachidia",
         date: "Vendredi 15/10/21",
         text: "Passage d’un village Hassi Berkhane (étape liaison). Direction Guercif. Les Gorges du Ziz. Descente sur le lac d’Errachidia.",
@@ -34,6 +39,7 @@ let STEPS_DATA = [ {
         picturesMobile: [ 'gorge_ziz1-mobile.jpg', 'gorge_ziz2-mobile.jpg' ],
     },
     {
+        id: 6,
         title: "Bivouac sous le ciel étoilé",
         date: "Vendredi 15/10/21",
         text: "Bilan première étape de liaison : Mentions spéciales aux Gorges du Ziz. Une route incroyable, de nombreux villages traversés avec des encouragements de tous côtés. Ce soir choix de notre petit nid douillet… un bivouac magnifique sous un ciel étoilé. Une douche bien méritée ! Et un excellent repas au coin du feu. Présentation de l’étape du samedi... ça promet! Le Big Warm Up comme en GP",
@@ -41,6 +47,7 @@ let STEPS_DATA = [ {
         picturesMobile: [ 'bivouac1-mobile.jpg', 'bivouac2-mobile.jpg', 'bivouac3-mobile.jpg', 'bivouac4-mobile.jpg' ],
     },
     {
+        id: 7,
         title: "The Big Warm Up",
         date: "Samedi 16/10/21",
         text: "Un lever de soleil de dingue! Spéciale navigation le matin que de la piste et des obstacles tout à la boussole puis une étape de liaison jusqu’à Merzouga. <br> Big warm up done ! Sans encombre ! Sans s’ensabler Roberto a assuré et les pilotes également. Très fatiguant et besoin de beaucoup de vigilance pour piloter sur ces terrains accidents : pierriers, sable mou, trous et marches, traversée d’oueds. Une navigation parfois piégeuse qui a fait douté Ornella. Heureusement nous sommes 2 pilotes et navigatrices dans l’âme.<br>NB: Ornella est priée d’avoir une conduite moins sportive dans le sable.<br>Cet après-midi après avoir déchargé les dons, c’est opération préparation des kits d’hygiène pour l’association enfants du désert. Superbe élan de solidarité et de travail à la chaîne pour tout dépoter et refaire des lots même en pleine chaleur. Et le soir surprise du chef pour les 20 ans : une étape d’orientation de 13 km de nuit. Intitulée Verdict : no problemo ! Rentrées à 22h repas douche froide…grosse journée qui apparemment est facile par rapport à demain.",
@@ -48,6 +55,7 @@ let STEPS_DATA = [ {
         picturesMobile: [ 'photo_big_warmup-mobile.jpg', 'photo_big_warmup2-mobile.jpg' ],
     },
     {
+        id: 8,
         title: "28ème au classement!",
         date: "Dimanche 17/10/21",
         text: "Nous sommes arrivées 28ème au classement sur 130!  On savoure cette victoire étant donné que ce n’était pas du tout fait exprès.",
@@ -55,6 +63,7 @@ let STEPS_DATA = [ {
         picturesMobile: [ 'classement1-mobile.jpg', 'classement2-mobile.jpg', 'classement3-mobile.jpg', 'classement4-mobile.jpg', 'classement5-mobile.jpg', 'classement6-mobile.jpg', 'classement7-mobile.jpg' ],
     },
     {
+        id: 9,
         title: "Prochaine étape bientôt !",
         date: "",
         text: "",
