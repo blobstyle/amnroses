@@ -84,5 +84,21 @@ let STEPS_DATA = [ {
         text: "Ce matin c’était la présentation du Club des petits déjeuners pendant le ptit dej. Une association canadienne qui fait de la sensibilisation pour les enfants qui fautes de moyens partent le ventre vide le matin.<br>Départ pour une étape de plus de 140km avec beaucoup de plateaux désertiques de toutes les couleurs.<br>Premier ensablage mais léger ce matin dans un oued très sablonneux. Pelles, plaques de desensablage : un échauffement avant les dunes demain ! On commence à se prendre au jeu : coupes de trajectoire, hors-piste, à chaque check-point notre cri d d’la victoire du jour Tintintîn tintin Chiwawa spéciale dédicace à (Lou) Begaa.<br>Angélique a trouvé l’amour avec Camel le dromadaire et Ornella a joué les Mike avec un colson pour aider un équipage qui avait cassé une pièce.",
         pictures: [ 'step9-1.jpg', 'step9-2.jpg', 'step9-3.jpg', 'step9-4.jpg', 'step9-5.jpg', 'step9-6.jpg', 'step9-7.jpg', 'step9-8.jpg' ],
         picturesMobile: [ 'step9-1-mobile.jpg', 'step9-2-mobile.jpg', 'step9-3-mobile.jpg', 'step9-4-mobile.jpg', 'step9-5-mobile.jpg', 'step9-6-mobile.jpg', 'step9-7-mobile.jpg', 'step9-8-mobile.jpg' ],
+    },
+    {
+        id: 12,
+        title: "L’ERG CHEBI",
+        date: "Mardi 19/10/21",
+        text: "WHO RUN THE DUNES ! GIRLS ! Ce matin grand moment d’émotions avec l’association Ruban Rose pour la fameuse photo dans le désert aux couleurs de la lutte contre le cancer du sein. On a beaucoup pensé à des personnes proches de nous dans ce moment-là. Un mot simple d’ordre préventif : l’auto palpation ! Puis l’étape des Dunes… en pleine après-midi sous 45deg comment vous dire… les pelles et les plaques de desensablages n’ont plus de secret !",
+        pictures: [ 'chebi1.jpg', 'chebi2.jpg' ],
+        picturesMobile: [ 'chebi1-mobile.jpg', 'chebi2-mobile.jpg' ],
+    },
+    {
+        id: 13,
+        title: "l’ERG CHEBI (suite)",
+        date: "Mardi 19/10/21",
+        text: "Épreuve difficile pour nous : beaucoup d’équipages tankés qui vous font vous ensabler, Roberto a été soumis à rude épreuve… il a trop chauffé donc on a dû nettoyer le radiateur avec la soufflette et laisser le liquide de refroidissement qui était en ébullition redescendre en température, redegonfler plusieurs fois les pneus.<br>Côté sensations : fortes et fun, fières d’avoir franchi cette étape redoutable à la force des bras et du mental<br>NB 1 : toujours s’écouter et surtout les bons conseils de Claude Monpays<br>NB 2 : Angélique a été magnifique dans une descente de l’extrême un mur de sable. Ornella trop impressionnée!<br>NB 3 : Ornella s’est révélée être une slalomeuse des sables. Roberto et nous sommes sains et saufs sans casse et trop contents d’avoir vécu cette expérience.",
+        pictures: [ 'chebi3.jpg' ],
+        picturesMobile: [ 'chebi3-mobile.jpg' ],
     }
 ];
