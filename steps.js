@@ -100,5 +100,37 @@ let STEPS_DATA = [ {
         text: "Épreuve difficile pour nous : beaucoup d’équipages tankés qui vous font vous ensabler, Roberto a été soumis à rude épreuve… il a trop chauffé donc on a dû nettoyer le radiateur avec la soufflette et laisser le liquide de refroidissement qui était en ébullition redescendre en température, redegonfler plusieurs fois les pneus.<br>Côté sensations : fortes et fun, fières d’avoir franchi cette étape redoutable à la force des bras et du mental<br>NB 1 : toujours s’écouter et surtout les bons conseils de Claude Monpays<br>NB 2 : Angélique a été magnifique dans une descente de l’extrême un mur de sable. Ornella trop impressionnée!<br>NB 3 : Ornella s’est révélée être une slalomeuse des sables. Roberto et nous sommes sains et saufs sans casse et trop contents d’avoir vécu cette expérience.",
         pictures: [ 'chebi3.jpg' ],
         picturesMobile: [ 'chebi3-mobile.jpg' ],
+    },
+    {
+        id: 14,
+        title: "MARATHON WOMAN : the ultimatum",
+        date: "Mercredi 20/10/21",
+        text: "Jour 1 de l’étape finale : 347 km à faire en 2j et en totale autonomie sans assistance ni ravitaillement. Nuit en campement avant le coucher du soleil.<br>On a beaucoup roulé pour essayer de faire la moitié. On s’est donné rendez-vous avec d’autres roses pour faire un petit campement sympa.<br>On a coupé stratégiquement et on est à moins 700 m de l’objectif. On se prend au jeu de plus en plus mais parfois on perd.<br>Nous avons traversé des plateaux sur des km, arides, des lacs desséchés, en mode MAD  MAX.",
+        pictures: [ 'marathon-women1.jpg', 'marathon-women2.jpg', 'marathon-women3.jpg'],
+        picturesMobile: [ 'marathon-women1-mobile.jpg', 'marathon-women2-mobile.jpg', 'marathon-women3-mobile.jpg'],
+    },
+    {
+        id: 15,
+        title: "MARATHON WOMAN : the ultimatum (suite)",
+        date: "Mercredi 20/10/21",
+        text: "Cette immensité est tellement rare… ce sont des paysages bruts.<br>La course est intense dans tout : physiquement, mentalement, dans les rencontres, le vécu, les sensations, la beauté des paysages.<br>Nous avons eu un magnifique coucher de soleil, feu de camp avec des herbes à chameaux, menu : partage de confit de canard, raclette, ration militaire lol (et oui tout le monde en a mangé).<br>Gros fous rires, des partages bref un moment inoubliable<br>NB1: on a dormi en zone blanche donc l’organisation était pas tranquille ça craignait rien.<br>NB2: Ornella a dormi comme un bb même avant Angélique !",
+        pictures: [ 'marathon-women4.jpg', 'marathon-women5.jpg'],
+        picturesMobile: [ 'marathon-women4-mobile.jpg', 'marathon-women5-mobile.jpg'],
+    },
+    {
+        id: 16,
+        title: "Finale du marathon : il nous plus de la moitié…",
+        date: "Jeudi 21/10/21",
+        text: "Départ au lever du soleil extra. Des caps difficiles avec un souci de piste tracée par erreur qui a planté tout le monde. Beaucoup de pierres avec risque de crevaison… merci la formation car aucun souci pour nous marche, dévers, Roberto passe partout<br>Un oued gigantesque sablonneux où il y a beaucoup de tankages qu’Angelique a traversé de manière plus qu’habile<br>De très grandes distances à maintenir au cap… pas facile.",
+        pictures: [ 'finale-marathon1.jpg', 'finale-marathon2.jpg', 'finale-marathon3.jpg', 'finale-marathon4.jpg'],
+        picturesMobile: [ 'finale-marathon1-mobile.jpg', 'finale-marathon2-mobile.jpg', 'finale-marathon3-mobile.jpg', 'finale-marathon4-mobile.jpg'],
+    },
+    {
+        id: 17,
+        title: "Finale du marathon (suite)",
+        date: "Jeudi 21/10/21",
+        text: "Des paysages toujours aussi beaux et diversifiés<br>Petite étape : inscription des noms dans le désert pour nos soutiens ;-)<br>Ornella a fini par tracer en fin de  journée en dépassant tout le monde.<br>Arrivée au son des darboukas, photos, félicitations de tout le monde. We did it!!!<br>Une douche très appréciée après es 2j…<br>NB1: le matin lever du soleil quel cadeau !! Ornella avait une herbe à chameau en guise de coiffure et Angélique un palmier… on fait local<br>NB2: grosse soirée ce soir et c’est pas la soirée de clôture lol",
+        pictures: [ 'soiree-marathon1.jpg', 'soiree-marathon2.jpg', 'soiree-marathon3.jpg'],
+        picturesMobile: [ 'soiree-marathon1-mobile.jpg', 'soiree-marathon2-mobile.jpg', 'soiree-marathon3-mobile.jpg'],
     }
 ];
