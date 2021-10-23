@@ -129,8 +129,16 @@ let STEPS_DATA = [ {
         id: 17,
         title: "Finale du marathon (suite)",
         date: "Jeudi 21/10/21",
-        text: "Des paysages toujours aussi beaux et diversifiés<br>Petite étape : inscription des noms dans le désert pour nos soutiens ;-)<br>Ornella a fini par tracer en fin de  journée en dépassant tout le monde.<br>Arrivée au son des darboukas, photos, félicitations de tout le monde. We did it!!!<br>Une douche très appréciée après es 2j…<br>NB1: le matin lever du soleil quel cadeau !! Ornella avait une herbe à chameau en guise de coiffure et Angélique un palmier… on fait local<br>NB2: grosse soirée ce soir et c’est pas la soirée de clôture lol",
+        text: "Des paysages toujours aussi beaux et diversifiés<br>Petite étape : inscription des noms dans le désert pour nos soutiens ;-)<br>Ornella a fini par tracer en fin de  journée en dépassant tout le monde.<br>Arrivée au son des darboukas, photos, félicitations de tout le monde. We did it!!! Ce soir on est 28ème au classement 4x4 et 39ème tous véhicules confondus<br>Une douche très appréciée après es 2j…<br>NB1: le matin lever du soleil quel cadeau !! Ornella avait une herbe à chameau en guise de coiffure et Angélique un palmier… on fait local<br>NB2: grosse soirée ce soir et c’est pas la soirée de clôture lol",
         pictures: [ 'soiree-marathon1.jpg', 'soiree-marathon2.jpg', 'soiree-marathon3.jpg'],
         picturesMobile: [ 'soiree-marathon1-mobile.jpg', 'soiree-marathon2-mobile.jpg', 'soiree-marathon3-mobile.jpg'],
+    },
+    {
+        id: 18,
+        title: "Soirée de clôture à Boulajoul",
+        date: "Vendredi 22/10/21",
+        text: "On est 33 eme au classement en catégorie 4x4 sur 130 et 43 eme toutes catégories sur 155. Un grand merci à vous tous familles, amis, collègues, sponsors pour votre soutien !! Nous sommes fières du résultat, l’objectif est atteint !<br>Roberto nous a emmené au bout et que de plaisir et de belles rencontres durant ces 7 jours. On a fait face à nous-mêmes dans les moments difficiles et notre réussite ça a été d’être toujours là l’une pour l’autre, de savoir prendre le relais, de partager les bons résultats comme les tankages !<br>Suite au prochain épisode des AM’n’Roses !",
+        pictures: [ 'final1.jpg', 'final2.jpg', 'final3.jpg'],
+        picturesMobile: [ 'final1-mobile.jpg', 'final2-mobile.jpg', 'final3-mobile.jpg'],
     }
 ];
