@@ -140,5 +140,13 @@ let STEPS_DATA = [ {
         text: "On est 33 eme au classement en catégorie 4x4 sur 130 et 43 eme toutes catégories sur 155. Un grand merci à vous tous familles, amis, collègues, sponsors pour votre soutien !! Nous sommes fières du résultat, l’objectif est atteint !<br>Roberto nous a emmené au bout et que de plaisir et de belles rencontres durant ces 7 jours. On a fait face à nous-mêmes dans les moments difficiles et notre réussite ça a été d’être toujours là l’une pour l’autre, de savoir prendre le relais, de partager les bons résultats comme les tankages !<br>Suite au prochain épisode des AM’n’Roses !",
         pictures: [ 'final1.jpg', 'final2.jpg', 'final3.jpg'],
         picturesMobile: [ 'final1-mobile.jpg', 'final2-mobile.jpg', 'final3-mobile.jpg'],
+    },
+    {
+        id: 19,
+        title: "Retour à bon port!",
+        date: "Lundi 25/10/21",
+        text: "Débarquement au Port de Sète à 9h le temps de se dire au-revoir avec les autres roses, séquence émotions… Direction Balaruc pour récupérer les affaires d’Ornella et faire un petit bisou aux parents d’Angélique et son fils Elias. Nous reprenons la route direction Prépa 23 à Crocq. On retrouve vite nos marques sur l’autoroute… où sont les dromadaires ? Toute cette verdure ! Et les camions sont chargés normalement ici…<br>Fin de journée : Roberto retrouve ses propriétaires. Il va bien après un rapide check-up. Petite nostalgie face à ce trio d’enfer… Dernières photos souvenirs, Gabriel et Laura des étoiles plein les yeux, des retrouvailles en famille bien méritées. Mais l’aventure ne s'arrête pas là car nous avons gardé des surprises : les off du rallye !",
+        pictures: [ 'retour1.jpg', 'retour2.jpg', 'retour3.jpg' ],
+        picturesMobile: [ 'retour1-mobile.jpg', 'retour2-mobile.jpg', 'retour3-mobile.jpg' ],
     }
 ];
